@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/angelinaghimire/Desktop/graphics",
+      "program": "/Users/angelinaghimire/Desktop/graphics/build/Debug/outDebug"
+    }
+  ]
+}
